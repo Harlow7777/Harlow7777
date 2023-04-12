@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harlow7777
 - 👀 I’m interested in cars, gaming and coding
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on my new NFT Trading Card project, Brawl About It
+- 🌱 I’m currently expanding my experience in data engineering
 - 📫 You can reach me by emailing Harlow_Jacob@outlook.com
 
 <!---
