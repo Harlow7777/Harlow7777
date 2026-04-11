@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harlow7777
-- 👀 I’m interested in cars, gaming and coding
-- 🌱 I’m currently expanding my experience in data engineering
+- 👀 I’m interested in coding, gaming and cars
+- 🌱 I’m currently expanding my experience in industrial automation
 - 📫 You can reach me by emailing Harlow_Jacob@outlook.com
 
 <!---
