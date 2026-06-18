@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harlow7777
-- 👀 I’m interested in problem solving, gaming and cars
+- 👀 I’m interested in problem solving, game design and cars
 - 💼 I have experience with Java, Spring, Python, AWS and Ignition
-- 🌱 I’m currently looking for a new opportunity
 - 📫 You can reach me by emailing Harlow_Jacob@outlook.com
 
 - Personal project management: [Jira Board](https://harlow777.atlassian.net/jira/software/projects/KAN/boards/2)
